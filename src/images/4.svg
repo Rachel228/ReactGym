@@ -1,0 +1,18 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<rect x="6" y="60" width="11" height="2" id="id_101" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="47" y="60" width="11" height="2" id="id_102" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="44.2" y="8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 7.402 35.8701)" width="5.7" height="2" id="id_103" style="fill: rgb(255, 242, 0);"></rect>
+<path d="M22,20h26.1L48,19.1c0-0.3,0.1-0.6,0.3-0.8l5-5c0.3-0.3,0.7-0.4,1-0.2c0.4,0.1,0.6,0.5,0.7,0.8l0.1,0.5l6.7-6.7
+	c0.4-0.4,0.4-1,0-1.4l-4-4c-0.4-0.4-1-0.4-1.4,0l-12,12C44.1,14.5,44,14.7,44,15H22c-0.6,0-1,0.4-1,1v3C21,19.6,21.4,20,22,20z
+	 M27,16h2v3h-2V16z" id="id_104" style="fill: rgb(255, 242, 0);"></path>
+<polygon points="44,54 44,49 5,52 5,54 " id="id_105" style="fill: rgb(255, 242, 0);"></polygon>
+<polygon points="4,59 60,59 60,55 44,55 4,55 " id="id_106" style="fill: rgb(255, 242, 0);"></polygon>
+<path d="M50.1,19.4l3.2,25.1l2.5-0.4c0.1,0,0.1,0,0.2,0c0,0,0,0,0,0c0.1,0,0.2,0,0.3,0l-3.1-27.8L50.1,19.4z" id="id_107" style="fill: rgb(255, 242, 0);"></path>
+<path d="M57.2,46.2C57.2,46.2,57.2,46.2,57.2,46.2c-0.2-0.1-0.4-0.1-0.6-0.1c-0.2,0-0.4-0.1-0.6-0.1c0,0,0,0,0,0L45,47.8V54h15v-4
+	C60,48.2,58.8,46.7,57.2,46.2z" id="id_108" style="fill: rgb(255, 242, 0);"></path>
+<rect x="2" y="37" width="2" height="2" id="id_109" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="6" y="37" width="7" height="2" id="id_110" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="8" y="43" width="2" height="2" id="id_111" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="12" y="43" width="8" height="2" id="id_112" style="fill: rgb(255, 242, 0);"></rect>
+<rect x="22" y="43" width="18" height="2" id="id_113" style="fill: rgb(255, 242, 0);"></rect>
+</svg>
